@@ -1,4 +1,4 @@
-/* General styles */
+
 body {
   font-family: 'Comic Sans MS', cursive, sans-serif; /* Fun and quirky font */
   margin: 0;
@@ -45,7 +45,6 @@ footer {
   text-shadow: 0 0 5px #fff;
 }
 
-/* Map styles */
 #map {
   width: 80%;
   height: 400px;
@@ -55,7 +54,6 @@ footer {
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
 }
 
-/* Form styles */
 #marker-form {
   display: flex;
   flex-direction: column;
